@@ -1,5 +1,5 @@
 # Sudoku-Solver
-En este proyecto se busca desde una imagen de un sudoku clasificar cada numero
+En este proyecto se busca desde una imagen de un sudoku clasificar cada numero,
 de esa forma poder armar un tablero para solucionar el mismo
 
 Los pasos son los siguientes:
